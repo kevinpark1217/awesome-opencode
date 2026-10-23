@@ -1,0 +1,4 @@
+name: Custom Provider OAuth
+repo: https://github.com/kevinpark1217/opencode-oauth
+tagline: OAuth 2.0 sign-in for OpenAI-compatible providers behind your own identity provider
+description: An OpenCode 2 plugin that signs an OpenAI-compatible provider in through your own identity provider (authorization code with PKCE) and refreshes the token automatically. It can also add web search through a SearXNG instance behind the same sign-in.
